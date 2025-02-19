@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a young software developer, I have already completed several personal projects that showcase my proficiency in programming and problem-solving. I am highly motivated, dedicated, and committed to achieving success in any project I undertake. I enjoy collaborating with others who share my passion for software development and am always looking for new challenges to expand my knowledge. My goal is to continue building my skills and contributing to the software development community to make a positive impact on the world through my work.
+Hi! I'm a young developer who loves coding and solving problems through software. I've worked on a few personal projects and enjoy learning new things along the way. I like collaborating with others who share my passion and always look for ways to improve my skills. My goal is to keep growing as a developer and contribute to projects that can make a difference.
 
 
 ## 🌐 Socials:
