@@ -26,11 +26,11 @@ I’m a software engineer and AI/ML enthusiast who *lives* for solving new probl
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=crypto-a&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-# 💻 LeetCode Stats:
+# 🖥 LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rahbaral?theme=light&font=ZCOOL%20XiaoWei)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=crypto-a&limit=5&theme=default&combine_all_yearly_contributions=true)
