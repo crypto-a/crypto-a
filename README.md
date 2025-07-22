@@ -1,6 +1,5 @@
 # 💫 About Me:
 
-### Hey there, I’m Ali Rahbar
 I’m a software engineer and AI/ML enthusiast who *lives* for solving new problems and taking on challenging side projects. Whether it’s building intelligent chatbots, optimizing CI/CD pipelines, or engineering smarter APIs — I love creating tools that actually make a difference.
 
 💡 I enjoy diving deep into:
