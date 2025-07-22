@@ -9,7 +9,7 @@ I’m a backend-focused software developer and AI/ML enthusiast who *lives* for 
 * AI/ML applications (TensorFlow, LLMs, recommendation systems)
 * DevOps and cloud infrastructure (Docker, GitHub Actions, GCP, Azure)
 
-🛠️ On the side, I’m always tinkering with personal projects — you can check out some of them right here on my GitHub or [my website](#) (add your link here!).
+🛠️ On the side, I’m always tinkering with personal projects — you can check out some of them right here on my GitHub or [my website](https://ali-rahbar.com) (add your link here!).
 
 📈 Currently open to **freelance gigs** and **internships**, especially where I can learn fast, ship faster, and collaborate with ambitious people.
 
