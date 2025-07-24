@@ -12,7 +12,7 @@ I’m a software engineer and AI/ML enthusiast who *lives* for solving new probl
 
 📈 Currently open to **freelance gigs** and **internships**, especially where I can learn fast, ship faster, and collaborate with ambitious people.
 
-Checkout the current project I am working on called ![SCADABLE](https://github.com/scadable). If you are intrested in contributing, send me an email!
+Checkout the current project I am working on called [SCADABLE](https://github.com/scadable). If you are intrested in contributing, send me an email!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahbarali) 
